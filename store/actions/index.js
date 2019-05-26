@@ -1,0 +1,1 @@
+export {default as action1} from "./action1"

@@ -1,0 +1,1 @@
+export {default as actionTypes1} from "./actionType1";

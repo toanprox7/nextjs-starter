@@ -1,0 +1,1 @@
+export {default as exam1} from "./exam1"
